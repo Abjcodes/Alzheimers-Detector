@@ -19,3 +19,5 @@ ML model is deployed using streamlit in heroku.
 ## Conclusion
 We were able to build an end to end ML model that predicts early ALzhheimer's symptoms. The parameters can be modified by excluding parameters such as educational status etc.
 This project can be modified to automatically detect required parameters from images of MRI reports as input.
+
+Project link: https://alzheimersdetector.herokuapp.com/
