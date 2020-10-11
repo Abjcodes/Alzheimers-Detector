@@ -1,6 +1,5 @@
 # Alzheimer's Detection using MRI report data
 ## Objective: 
-What is Alzhiemer's ?
 Alzheimer's disease is thought to be caused by the abnormal build-up of proteins in and around brain cells. One of the proteins involved is called amyloid, deposits of which form plaques around brain cells. The other protein is called tau, deposits of which form tangles within brain cells.
 
 Detection of Alzheimer's is very important for early treatment. Our aim with this project is to provide an easier way to predict early Alzheimer's symptoms.
